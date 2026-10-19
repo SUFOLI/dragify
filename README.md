@@ -1,6 +1,6 @@
 # Dragify
 
-Drag any image, PDF, video or song on your Mac and a ring of formats pops up. Drop the file on a format and a converted copy appears right next to the original.
+Drag any image, PDF, video or audio file on your Mac and a ring of formats pops up. Drop the file on a format and a converted copy appears right next to the original.
 
 Dragify is in private beta. Thanks for testing it!
 
