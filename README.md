@@ -1,6 +1,6 @@
 # Dragify
 
-Drag any image, PDF, video or audio file on your Mac and a ring of formats pops up. Drop the file on a format and a converted copy appears right next to the original.
+Drag any image, PDF, video, audio, spreadsheet, document or slideshow on your Mac and a ring of formats pops up. Drop the file on a format and a converted copy appears right next to the original.
 
 Dragify is in private beta. Thanks for testing it!
 
@@ -21,7 +21,7 @@ On this page, click **Watch → Custom → Releases → Apply**. GitHub will ema
 
 ## Using it
 
-These are for the latest version. v1.0.0 handles images and PDFs only.
+These are for the latest version. v1.0.0 handles images and PDFs only; documents, spreadsheets and slides need v4.0.0 or newer.
 
 | Drag a… | Convert to |
 |---|---|
@@ -29,6 +29,10 @@ These are for the latest version. v1.0.0 handles images and PDFs only.
 | PDF | PNG, JPG, WEBP (one image per page) |
 | Video (MP4, MOV, M4V, MKV, WEBM, AVI) | MP4, MOV, WEBM, MKV, GIF, MP3, WAV |
 | Audio (MP3, WAV, M4A, AAC, FLAC, OGG, AIFF) | MP3, WAV, M4A, FLAC, OGG, AIFF |
+| Spreadsheet (Excel XLSX/XLS, Numbers, CSV, ODS) | PDF, XLSX, CSV (one CSV per sheet) |
+| Document (Word DOCX/DOC, RTF, ODT) | PDF, DOCX, RTF, TXT |
+| Slides (PowerPoint PPTX/PPT) | PDF, PNG, JPG (one image per slide) |
+| Text (TXT, Markdown, HTML) | PDF, DOCX |
 
 - Drop in the middle of the ring to cancel. Click the middle while it's converting to stop.
 - **⌃⌥D** turns Dragify on or off. You can change the shortcut in Settings.
